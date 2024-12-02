@@ -15,6 +15,7 @@ using System.Security.Cryptography;
 namespace Cybersport
 {
     //Admin
+    //Design
     public partial class Authorization : Form
     {
         public Authorization()
